@@ -1,0 +1,18 @@
+# Core
+django
+django-environ
+djangorestframework
+django-model-controller
+
+# Image
+Pillow
+
+# Postgres
+psycopg2-binary
+
+# Debugging
+ipdb
+
+# Test
+model_mommy
+django-test-without-migrations
